@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  font-style: oblique;
+  color: bisque;
+  text-align: center;
+  width: 100%;
+}
+
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
+
+nav {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  background-color: antiquewhite;
+  width: 50%;
+}
+
+figcaption {
+  font-size: medium;
+  text-align: center;
+}
+
+section p {
+  display: block;
+  width: 800px;
+  padding-left: 475px;
+  padding-right: 50%;
+  text-align: center;
+}
+
+div {
+  float: left;
+  background-color: rgb(226, 117, 117);
+  text-align: center;
+  width: 25%;
+}
